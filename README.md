@@ -1,2 +1,2 @@
 # Aula-posicionando-elementos-com-flex-container
-Aula do curso da digital innovation One
+Aula do curso da digital innovation One, a parte da criação do site eu tive um pouco de dificuldade porque o material que foi disponibilizado para agilizar o processo tinha várias divergências que eu tive que corrigir, e em muitos momentos por algum motivo até o código perfeitamente igual não estava rodando corretamente, no final eu tive que reescrever todo o código do zero (realmente comparei com o anterior e não tinha nenhuma diferença), felizmente no final deu tudo certo e rodou perfeitamente.
